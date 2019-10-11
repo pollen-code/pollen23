@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.m \
+  /Users/kentonpalmer/pollen23/ios/Pods/Target\ Support\ Files/RNBackgroundGeolocation/RNBackgroundGeolocation-prefix.pch \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Modules/module.modulemap \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSCurrentPositionRequest.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSWatchPositionRequest.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/LocationManager.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofence.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofenceEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSEnabledChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSScheduleEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHeartbeatEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHttpEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSProviderChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSActivityChangeEvent.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocation.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConfig.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSSchedule.h \
+  /Users/kentonpalmer/pollen23/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocationManager.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/kentonpalmer/pollen23/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pollen</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleGetInfoString</key>
+	<string/>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.9</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>8</string>
+	<key>LSApplicationCategoryType</key>
+	<string/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Allow access to use media with Pollen</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Pollen needs access to your bluetooth connection to upload data from your device for crash reports.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Pollen needs access to your bluetooth connection to upload data from your device for crash reports.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Pollen would like to access your calender for alerts and events</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow access to take and upload photos with Pollen</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow access to use contacts with Pollen</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow access to use the feed, and select always allow access to use rooms.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Pollen needs access to your location continuously for you to use rooms.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Allow access to location to post and comment with Pollen</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow access to post with Pollen</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow access to shoot video</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow access to post photos with Pollen</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow access to post photos with Pollen</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Pollen needs access to speech recognition use for speech to text narration.</string>
+	<key>Privacy - Bluetooth Always Usage Description</key>
+	<string>Pollen needs access to your bluetooth connection to upload data from your device for crash reports.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
