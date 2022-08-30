@@ -15,7 +15,7 @@
     "geolib": "^3.0.4",
     "link": "^0.1.5",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "react": "16.8.6",
     "react-native": "^0.60.5",
     "react-native-background-fetch": "^2.7.0",
